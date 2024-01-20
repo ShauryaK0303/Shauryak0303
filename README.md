@@ -8,10 +8,10 @@ Hi, I am a AI & ML developer with interest in Data Science and Data Analytics wi
 
 ### Skills
 
-<p><strong>Programming Languages:</strong></p>
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-F45B3A?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-C915DB?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-15A8DB?style=for-the-badge&logo=C&logoColor=white)
+<strong>Programming Languages:</strong>
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-F45B3A?style=for-the-badge&logo=rust&logoColor=white)  ![C](https://img.shields.io/badge/C-C915DB?style=for-the-badge&logo=C&logoColor=white)  ![C++](https://img.shields.io/badge/C++-15A8DB?style=for-the-badge&logo=C&logoColor=white)
 
-<strong>Data Science<:</strong>
+<strong>Data Science:</strong>
 - ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google%20data%20studio&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-21C478?style=for-the-badge&logo=postgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-DBDB15?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <strong>Machine Learning:</strong>
