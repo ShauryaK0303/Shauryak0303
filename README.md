@@ -21,5 +21,5 @@ Hi, I am a AI & ML developer with interest in Data Science and Data Analytics ex
 - ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-DB7815?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-B34F7C?style=for-the-badge)
 
 <p align="center">
-  <img src="https://imgur.com/fjRuX7Z/" alt="Truth">
+  <img src="https://imgur.com/fjRuX7Z/pro2.jpeg" alt="Truth">
 </p>
