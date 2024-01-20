@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon&pause=1000&color=7B2CF7&random=false&width=435&lines=Hey+There+!+This+is+Shaurya+Kushwah)](https://git.io/typing-svg)
 
 ## 🚀 About Me   
-Hi, I am a AI & ML developer with interest in Data Science and Data Analytics with experience in working with Big Data and operating Linux.
+Hi, I am a AI & ML developer with interest in Data Science and Data Analytics experienced in working with Big Data and operating Linux.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryak0311/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shaurya0311/)
@@ -21,5 +21,5 @@ Hi, I am a AI & ML developer with interest in Data Science and Data Analytics wi
 - ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-DB7815?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-B34F7C?style=for-the-badge)
 
 <p align="center">
-  <img src="https://imgur.com/fjRuX7Z" alt="Truth">
+  <img src="https://imgur.com/fjRuX7Z/" alt="Truth">
 </p>
