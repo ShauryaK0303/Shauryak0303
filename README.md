@@ -9,33 +9,17 @@ Hi, I am a AI & ML developer with interest in Data Science and Data Analytics wi
 ### Skills
 
 Programming Languages:
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- ![Rust](https://img.shields.io/badge/Rust-F45B3A?style=for-the-badge&logo=rust&logoColor=white)
-
-- ![C](https://img.shields.io/badge/C-C915DB?style=for-the-badge&logo=C&logoColor=white)
-
-- ![C++](https://img.shields.io/badge/C++-15A8DB?style=for-the-badge&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Rust](https://img.shields.io/badge/Rust-F45B3A?style=for-the-badge&logo=rust&logoColor=white)  ![C](https://img.shields.io/badge/C-C915DB?style=for-the-badge&logo=C&logoColor=white)  ![C++](https://img.shields.io/badge/C++-15A8DB?style=for-the-badge&logo=C&logoColor=white)
 
 
 Data Science:
-- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google%20data%20studio&logoColor=white)
-
-- ![SQL](https://img.shields.io/badge/SQL-21C478?style=for-the-badge&logo=postgreSQL&logoColor=white)
-
-- ![MySQL](https://img.shields.io/badge/MySQL-DBDB15?style=for-the-badge&logo=MySQL&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=google%20data%20studio&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-21C478?style=for-the-badge&logo=postgreSQL&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-DBDB15?style=for-the-badge&logo=MySQL&logoColor=white)
 
 Machine Learning:
-- ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6315DB?style=for-the-badge)
-
-- ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-158CFC?style=for-the-badge)
-
-- ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6FDB15?style=for-the-badge)
+ ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6315DB?style=for-the-badge) ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-158CFC?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6FDB15?style=for-the-badge)
 
 Miscellanious:
-- ![Artifical Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-DB7815?style=for-the-badge)
-
-- ![Linux](https://img.shields.io/badge/Linux-B34F7C?style=for-the-badge)
+ ![Artifical Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-DB7815?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-B34F7C?style=for-the-badge)
 
 
 
@@ -49,5 +33,5 @@ Miscellanious:
 
 ⚡️ Fact: Roses are red,Violets are Blue,
          Unexpected '{' at line 32.
-         
+
 ![Truth](https://imgur.com/fjRuX7Z)
