@@ -22,4 +22,4 @@ Hi, I am a AI & ML developer with interest in Data Science and Data Analytics ex
 
 ## Random Truth
 
-![TRUTH](pro3-Copy.jpeg?raw=true "title")
+![TRUTH](fin1.jpeg?raw=true "title")
