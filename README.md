@@ -8,7 +8,7 @@ Hi, I am a AI & ML developer with interest in Data Science and Data Analytics wi
 
 ### Skills
 
-<p><strong>Programming Languages:<</p>
+<p><strong>Programming Languages:</strong></p>
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-F45B3A?style=for-the-badge&logo=rust&logoColor=white) ![C](https://img.shields.io/badge/C-C915DB?style=for-the-badge&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/C++-15A8DB?style=for-the-badge&logo=C&logoColor=white)
 
 <strong>Data Science<:</strong>
