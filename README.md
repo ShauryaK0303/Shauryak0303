@@ -51,5 +51,5 @@ Miscellanious:
          Unexpected '{' at line 32.
 
 <div align ="centre">
-<img src="https://imgur.com/fjRuX7Z" alt="meme">
+<img src="https://imgur.com/fjRuX7Z">
 </div>
