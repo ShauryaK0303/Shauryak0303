@@ -3,6 +3,9 @@
 ## 🚀 About Me   
 Hi, I am a AI & ML developer with interest in Data Science and Data Analytics with experience in working with Big Data and operating Linux.
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryak0311/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shaurya0311/)
+
 ### Skills
 
 Programming Languages:
@@ -36,10 +39,7 @@ Miscellanious:
 
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryak0311/) 
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shaurya0311/)
 
 
 ##
@@ -49,7 +49,5 @@ Miscellanious:
 
 ⚡️ Fact: Roses are red,Violets are Blue,
          Unexpected '{' at line 32.
-
-<div align ="centre">
-<img src="https://imgur.com/fjRuX7Z">
-</div>
+         
+![Truth](https://imgur.com/fjRuX7Z)
