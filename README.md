@@ -3,6 +3,13 @@
 ## 🚀 About Me   
 Hi, I am a AI & ML developer with interest in Data Science and Data Analytics experienced in working with Big Data and operating Linux.
 
+##
+👩‍💻 I'm currently working on Backend Development using Rust and honing my skills in Data Structures and Algorithms.
+
+🧠 I'm currently learning Rust and DevOps.
+
+👯‍♀️ I'm looking to collaborate on projects involving software development and machine learning.
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shauryak0311/) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shaurya0311/)
 
