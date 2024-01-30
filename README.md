@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon&pause=1000&color=7B2CF7&random=false&width=435&lines=Hey+There+!+This+is+Shaurya+Kushwah)](https://git.io/typing-svg)
 
 ## 🚀 About Me   
-Hi, I am a AI & ML developer with interest in Data Science and Data Analytics experienced in working with Big Data and operating Linux.
+Hi, I am an AI & ML developer with interest in Data Science and Data Analytics experienced in working with Big Data and operating Linux.
 
 ##
 👩‍💻 I'm currently working on Backend Development using Rust and honing my skills in Data Structures and Algorithms.
